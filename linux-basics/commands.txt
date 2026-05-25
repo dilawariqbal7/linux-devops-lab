@@ -1,0 +1,84 @@
+ls = list files
+pwd = current directory
+grep = search text
+ssh keygen = to generate key 
+rm -r = remove the directory and everything
+chown = to change ownership
+chmod = to give permission
+Pwd 
+Cd
+Cd  ..
+echo "   ">notes.txt
+Cat
+Ls 
+Ls -l
+Ls -a
+Cp (for copy)
+Mv 
+Rm
+Uname 
+Uname -r
+Whoami
+Clear
+History
+Free
+Nslookup
+Ssh-keygen -t rsa
+Curl 
+Curl -o
+Sudo apt install
+Du
+Df
+Ifconfig  -s
+Ip addr show
+Sudo useradd 
+Sudo passwd
+Sudo userdel
+Su 
+Sudo usermod -l
+Ps aux
+Top
+Kill 1234
+Pidof
+Sudo Systemctl start
+Sudo systemctl status
+Journalclt -xe
+Sudo demidecode -t system
+Lsusb
+Lspci
+Iftop
+Iostat -xz 1
+Vmstat 2
+Htop
+Df -h
+Free -h
+Lsblk
+Lscpu
+Hostnamectl
+Uname -a
+Ls -l
+Sudo chmod 
+Sudo chown
+Sudo chown.    Media
+Sudo adduser 
+Ip a
+Sudo systemctl status ssh
+Sudo systemctl enable ssh
+Sudo systemctl start ssh
+Sudo apt install openssh-client openssh-server
+Sudo apt update
+Sudo systemctl status kauditd
+Pidof gnome-shell
+Pidof root
+Sort
+cp -rvf *.txt
+Chmod r-- readonly
+Chmod --x writeonly(r4 w2 x1)
++ to add permission
+- to remove permission
+Chown dev:dev filename
+find (path) -name ".text"
+grep "error" * or file name in the place of *
+find /path -type f -size +10M
+
+wc -l report1.txt
