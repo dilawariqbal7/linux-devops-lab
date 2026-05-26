@@ -1,0 +1,12 @@
+ip a
+if config
+sudo apt install ipcalc
+sudo ip link set eth0 up
+sudo ip link set eth0 down
+Loopback interface: lo
+vm interfaces: ens33
+new vm interface:enpos3
+Ping checks: ping google.com
+nslookup google.com(for ip addresses)
+path packets take to reach destination.(traceroute google.com)
+check open ports(ss -tulnp)
